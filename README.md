@@ -40,7 +40,7 @@ This Java application processes queries on a Bayesian network defined in an XML 
 1. **Clone the repository:**
 
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/GalHillel/AI-Algorithms-Project.git
    cd BayesianNetworkQueryProcessor
    ```
 
@@ -49,7 +49,7 @@ This Java application processes queries on a Bayesian network defined in an XML 
    Ensure you have JDK (Java Development Kit) installed.
 
    ```bash
-   javac *.java
+   javac EX1.java
    ```
 
 ## Usage
@@ -106,7 +106,3 @@ B(JohnCalls-MaryCalls|Alarm=true)
 ## Contributing
 
 Contributions are welcome! If you'd like to enhance this project or add new features, feel free to fork the repository and submit your changes via pull request.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
